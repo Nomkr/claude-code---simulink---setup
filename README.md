@@ -1,5 +1,7 @@
 # claude code + Simulink仿真自动化
 
+（不局限于cc，同样适用于codex，gemini等）
+
 首先打开网页：
 
 [Releases · matlab/simulink-agentic-toolkit](https://github.com/matlab/simulink-agentic-toolkit/releases)
